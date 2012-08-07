@@ -1,0 +1,27 @@
+#surefire
+#Mon Aug 06 20:06:41 BRT 2012
+testClassesDirectory=C\:\\Program Files (x86)\\Eclipse\\workspace\\DataDrivenTestSelenium\\target\\test-classes
+classPathUrl.4=C\:\\Users\\EduardoSouza\\.m2\\repository\\org\\seleniumhq\\selenium\\client-drivers\\selenium-java-client-driver\\1.0\\selenium-java-client-driver-1.0.jar
+forkMode=once
+classPathUrl.3=C\:\\Users\\EduardoSouza\\.m2\\repository\\org\\hamcrest\\hamcrest-core\\1.1\\hamcrest-core-1.1.jar
+classPathUrl.2=C\:\\Users\\EduardoSouza\\.m2\\repository\\junit\\junit\\4.10\\junit-4.10.jar
+useManifestOnlyJar=true
+classPathUrl.1=C\:\\Program Files (x86)\\Eclipse\\workspace\\DataDrivenTestSelenium\\target\\classes
+reportsDirectory=C\:\\Program Files (x86)\\Eclipse\\workspace\\DataDrivenTestSelenium\\target\\surefire-reports
+classPathUrl.0=C\:\\Program Files (x86)\\Eclipse\\workspace\\DataDrivenTestSelenium\\target\\test-classes
+providerConfiguration=org.apache.maven.surefire.junit4.JUnit4Provider
+testSuiteDefinitionTestSourceDirectory=C\:\\Program Files (x86)\\Eclipse\\workspace\\DataDrivenTestSelenium\\src\\test\\java
+surefireClassPathUrl.1=C\:\\Users\\EduardoSouza\\.m2\\repository\\org\\apache\\maven\\surefire\\surefire-api\\2.10\\surefire-api-2.10.jar
+surefireClassPathUrl.0=C\:\\Users\\EduardoSouza\\.m2\\repository\\org\\apache\\maven\\surefire\\surefire-junit4\\2.10\\surefire-junit4-2.10.jar
+runOrder=filesystem
+useSystemClassLoader=true
+excludes0=**/*$*
+isTrimStackTrace=true
+enableAssertions=true
+includes2=**/*TestCase.java
+failIfNoTests=false
+includes1=**/*Test.java
+includes0=**/Test*.java
+childDelegation=false
+classPathUrl.6=C\:\\Users\\EduardoSouza\\.m2\\repository\\log4j\\log4j\\1.2.14\\log4j-1.2.14.jar
+classPathUrl.5=C\:\\Users\\EduardoSouza\\.m2\\repository\\net\\sourceforge\\jexcelapi\\jxl\\2.6.12\\jxl-2.6.12.jar
